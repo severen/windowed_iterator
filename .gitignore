@@ -1,0 +1,8 @@
+# Compiled files and executables.
+/target/
+
+# Dependency lockfile.
+Cargo.lock
+
+# rustfmt backup files.
+**/*.rs.bk
